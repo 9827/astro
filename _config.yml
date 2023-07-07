@@ -2,7 +2,7 @@ title: My page
 description: A minimal and beautiful Jekyll theme best for writing and note-taking.
 author: Mahendra Verma
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: mahendverma@gmail.com
 
 plugins:
   - jekyll-seo-tag
