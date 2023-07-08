@@ -2,7 +2,7 @@
 layout: post
 ---
 
-This web page is a personal web page. It is under develop, wait for the full update and more information related to me and my page.
+This web page is a personal web page. It is under development, wait for the full update and more information related to me and my page.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
