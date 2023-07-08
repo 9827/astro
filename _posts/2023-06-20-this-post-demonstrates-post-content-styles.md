@@ -1,14 +1,14 @@
 ---
 layout: post
 toc: true
-title: " Lenticular galaxy Definition "
+title: " Lenticular Galaxy Definition "
 categories: junk
 tags: [markdown, css, html]
 author:
 - Mahendra
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+Our eye Hubble space telescope and much more variety of wavelength telescope expand our knowledge about the universe. Our planetary system or the sun is a very small part of our galaxy. We now know our galaxy has a specific spiral type of structure or it is a spiral galaxy and our sun lie on one of the spiral arm. 
 
 ## Types of galaxies (h2)
 
