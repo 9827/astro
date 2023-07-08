@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: true
-title: " Lenticular galaxy: Definition "
+title: " Lenticular galaxy Definition "
 categories: junk
 tags: [markdown, css, html]
 author:
