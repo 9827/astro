@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: archive-years
 title: link to my cv
 #permalink: /year/
 ---
