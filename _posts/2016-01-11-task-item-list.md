@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Task Item List
+title: To the main page
 tags: [to-do list]
 ---
 
